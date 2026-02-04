@@ -56,14 +56,15 @@ The project is implemented in **Python** using the following libraries:
 3.Open the notebook:
   jupyter notebook EDA_(univariate_analysis).ipynb
 
-📌 Requirements
+## 📌 Requirements
 
 Python 3.x
 
 Required libraries can be installed using:
 
 pip install pandas numpy matplotlib seaborn
-🚀 Future Work
+
+## 🚀 Future Work
 
 Bivariate and multivariate analysis
 
@@ -73,11 +74,11 @@ Statistical testing
 
 Machine learning model building
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
